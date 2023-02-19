@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Physics Engineering student with interests in Instrumentation, IoT, 3D Design, Computational Fluid Dynamics, Renewable Energy, business and startup development, and Machine Learning.
 <!--
 **abriyanyusuf/abriyanyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+<a href="https://github.com/abriyanyusuf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abriyanyusuf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abriyanyusuf&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
