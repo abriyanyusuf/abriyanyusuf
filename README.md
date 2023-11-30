@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Physics Engineering student with interests in Instrumentation, IoT, 3D Design, Computational Fluid Dynamics, Renewable Energy, business and startup development, and Machine Learning.
+I am a Physics Engineering student with interests in Instrumentation, IoT, 3D Design, Data Science, Renewable Energy, business and startup development, and Machine Learning.
 <!--
 **abriyanyusuf/abriyanyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
